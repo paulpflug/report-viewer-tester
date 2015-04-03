@@ -14,6 +14,10 @@ npm install
 ```sh
 npm test
 ```
+or
+```sh
+npm run test2
+```
 
 ## Usage with debug
 
